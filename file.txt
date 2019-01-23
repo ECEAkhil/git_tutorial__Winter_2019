@@ -1,1 +1,2 @@
 I am learning git.
+Hi! How are you? I am a collaborator.
